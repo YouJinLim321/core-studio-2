@@ -1,0 +1,14 @@
+html, body {
+	background-color: #00BFFF;
+	color:#F0F8FF;
+	font-size: 50px;
+}
+
+a {
+	color: #191970;
+}
+
+img {
+	height:auto;
+	max-width: 100%;
+}
