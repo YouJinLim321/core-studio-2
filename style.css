@@ -1,7 +1,17 @@
 html, body {
 	background-color: #000000;
 	color:#FFFFFF;
+	font-size: 200px;
+}
+
+h1 {
 	font-size: 400px;
+	color:#FFFFFF;
+}
+
+h2, h3, h4 {
+	font-size: 200px;
+	color:#FFFFFF;
 }
 
 a {
